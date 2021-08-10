@@ -2,7 +2,7 @@
 Unity를 이용한 가상현실 심폐소생술 교육 프로그램
 
 
-![se3](https://user-images.githubusercontent.com/49131724/128907550-a771af88-64f6-4e86-98d6-953edde81c4b.png)
+<img src = "https://user-images.githubusercontent.com/49131724/128907550-a771af88-64f6-4e86-98d6-953edde81c4b.png" width="70%">
 
 ## Execution Video
 [https://youtu.be/JdT2FqsKUbY](https://youtu.be/JdT2FqsKUbY)
